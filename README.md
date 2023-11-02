@@ -2,7 +2,7 @@
 
 **Credit:** This project was created with inspiration from Polyfjord's tutorial on YouTube.
 
-![ItsyBitsy Spider Render Image](renders/itsybitsy.png)
+![ItsyBitsy Spider Animation](renders/itsybitsy.gif)
 
 Welcome to my "ItsyBitsy-Blender" project! In this Blender animation, I've created a simple mechanical spider model and rigged it for a walking animation. I also added a unique twist to the animation by including a button that triggers a color change in the environment lighting as the spider steps on it.
 
@@ -19,12 +19,6 @@ Welcome to my "ItsyBitsy-Blender" project! In this Blender animation, I've creat
 This project is a mini exploration into rigging and animation within Blender, inspired by Polyfjord's tutorial. It allowed me to experiment with creating a rig for a character, animating its movement, and incorporating interactive elements into the animation.
 
 I followed Polyjford's tutorial on YouTube to create the spider character, rig it, and animate its walk. While I focused on this fun spider animation, my primary area of concentration is character sculpting. I'm excited to develop my skills in character modeling, and animation remains a goal for the future.
-
-## Rendered Artwork
-
-Here's the animation:
-
-![ItsyBitsy Spider Animation Preview](renders/itsybitsy.gif)
 
 ## Goals
 
