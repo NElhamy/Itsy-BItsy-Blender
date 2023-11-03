@@ -18,7 +18,7 @@ Welcome to my "ItsyBitsy-Blender" project! In this Blender animation, I've creat
 
 This project is a mini exploration into rigging and animation within Blender, inspired by Polyfjord's tutorial. It allowed me to experiment with creating a rig for a character, animating its movement, and incorporating interactive elements into the animation.
 
-I followed Polyjford's tutorial on YouTube to create the spider character, rig it, and animate its walk. While I focused on this fun spider animation, my primary area of concentration is character sculpting. I'm excited to develop my skills in character modeling, and animation remains a goal for the future.
+I followed Polyfjord's tutorial on YouTube to create the spider character, rig it, and animate its walk. While I focused on this fun spider animation, my primary area of concentration is character sculpting. I'm excited to develop my skills in character modeling, and animation remains a goal for the future.
 
 ## Goals
 
